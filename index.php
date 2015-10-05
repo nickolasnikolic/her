@@ -70,7 +70,7 @@
         <a href="clothing.php">
             <div class="deal-text">
                 <h2>clothing</h2>
-                <p>clothe yourself boy!</p>
+                <p>clothe yourself altruistically!</p>
             </div>
         </a>
     </article>
