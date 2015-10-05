@@ -2,15 +2,15 @@ $(document).ready(function(){
 
     //set the items for sale
     var requestList = [
-        'B00SCKA6XQ',
-        'B001DNRJLG',
-        'B001355MX6',
-        'B00DPH6DM4',
-        'B001HT720O',
-        'B00028CFC6',
-        'B00FAHCDDA',
-        'B00K4UWY2I',
-        'B002S4L4RY'
+        'B00784S5D0',
+        'B00PFRMBK0',
+        'B002JOYTNY',
+        'B002ZCS698',
+        'B00HLK6IUI',
+        'B002Q6H2LQ',
+        'B0054RYI7K',
+        'B0034K4DBK',
+        'B00E1RR312'
     ];
 
     _.each(requestList,function(asin, index, list){

@@ -4,13 +4,13 @@ $(document).ready(function(){
     var requestList = [
         'B00PU9WUH2',
         'B00Q7AYL2K',
-        'B00LUOP01O',
+        'B00W9PJKF0',
         'B00BD6CU6W',
         'B014BTCG0W',
         'B00UZU6DTM',
-        'B00I9R40E8',
-        'B003G7VUNK',
-        'B00AMADFIM'
+        'B00T65M1NY',
+        'B00FL5X4R0',
+        'B00ZDT1VYW'
     ];
 
     _.each(requestList,function(asin, index, list){
