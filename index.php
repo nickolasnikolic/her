@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <title>her.place</title>
     <meta name="description" content="a place for his home" />
-    <meta name="keywords" content="his, decoration, home, decor, masculine" />
+    <meta name="keywords" content="her, decoration, home, decor, feminine" />
 
     <link rel="stylesheet" href="css/normalize.css" />
 
