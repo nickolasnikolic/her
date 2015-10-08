@@ -128,7 +128,7 @@ a:visited{
 }
 
 .small-img{
-    width: 7em;
+    max-width: 7em;
     max-height: 20em;
     margin: 0.75em;
 }
